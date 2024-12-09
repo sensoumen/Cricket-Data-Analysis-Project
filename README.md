@@ -4,4 +4,4 @@ Website used: https://www.espncricinfo.com/records/tournament/team-match-results
 1.	The team should be able to score at least 180 runs on an average.
 2.	They should be to defend 150 runs on an average  
 
-All the requirements for different player roles(like SPECIALIST FAST BOWLERS, OPENERS, etc) are mentioned in the Requirements doc.
+All the requirements for different player roles (like SPECIALIST FAST BOWLERS, OPENERS, etc) are mentioned in the Requirements doc.
